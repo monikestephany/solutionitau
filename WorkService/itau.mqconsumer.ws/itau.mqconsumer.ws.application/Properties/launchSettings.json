@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "itau.mqconsumer.ws.application": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

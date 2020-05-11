@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itau.conta.ext.api.application", "itau.conta.ext.api.application\itau.conta.ext.api.application.csproj", "{DB943914-8C88-40DC-8CAE-01351FA1E91B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itau.conta.ext.api.core", "itau.conta.ext.api.core\itau.conta.ext.api.core.csproj", "{0C37F974-BEB7-40DD-A701-F7B777FE0546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB943914-8C88-40DC-8CAE-01351FA1E91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB943914-8C88-40DC-8CAE-01351FA1E91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB943914-8C88-40DC-8CAE-01351FA1E91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB943914-8C88-40DC-8CAE-01351FA1E91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C37F974-BEB7-40DD-A701-F7B777FE0546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C37F974-BEB7-40DD-A701-F7B777FE0546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C37F974-BEB7-40DD-A701-F7B777FE0546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C37F974-BEB7-40DD-A701-F7B777FE0546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186664E3-EA92-48DC-9867-3EB35909D8DC}
+	EndGlobalSection
+EndGlobal

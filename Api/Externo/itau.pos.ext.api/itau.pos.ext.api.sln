@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itau.pos.ext.api.application", "itau.pos.ext.api.application\itau.pos.ext.api.application.csproj", "{3BB59C77-1A62-4B54-B5DC-A3A12EA947F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itau.pos.ext.api.core", "itau.pos.ext.api.core\itau.pos.ext.api.core.csproj", "{FB4C766A-6212-4721-9016-A434340B2C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB59C77-1A62-4B54-B5DC-A3A12EA947F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB59C77-1A62-4B54-B5DC-A3A12EA947F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB59C77-1A62-4B54-B5DC-A3A12EA947F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB59C77-1A62-4B54-B5DC-A3A12EA947F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4C766A-6212-4721-9016-A434340B2C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4C766A-6212-4721-9016-A434340B2C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4C766A-6212-4721-9016-A434340B2C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4C766A-6212-4721-9016-A434340B2C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186664E3-EA92-48DC-9867-3EB35909D8DC}
+	EndGlobalSection
+EndGlobal
